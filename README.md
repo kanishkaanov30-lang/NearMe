@@ -107,16 +107,10 @@ saveetha
 </html>
 '''
 ## OUTPUT
-
-
-
-
-
-
-
-## RESULT
 ![alt text](saveetha.png)
 ![alt text](<Screenshot 2025-12-14 220753.png>)
 ![alt text](<Screenshot 2025-12-14 220946.png>)
 ![alt text](<Screenshot 2025-12-14 221044.png>)
+## RESULT
+
 The program for implementing image maps using HTML is executed successfully.
